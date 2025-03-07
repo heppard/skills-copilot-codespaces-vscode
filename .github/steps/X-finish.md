@@ -29,3 +29,7 @@ Here's a recap of all the tasks you completed:
 - [Learn another GitHub skill](https://github.com/skills).
 - [Read the Get started with GitHub docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
+### Share your achievement
+
+We'd love to see your progress! Share your achievement on social media with the hashtag #GitHubCopilot.

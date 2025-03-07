@@ -21,6 +21,9 @@ Using Copilot inside a Codespace shows just how easy it is to get up and running
 > **Note**
 > This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, [Codespaces](https://github.com/skills/code-with-codespaces), before moving forward with this exercise.
 
+> **Tip**
+> For more information on GitHub Copilot, check out the [GitHub Copilot documentation](https://docs.github.com/en/copilot).
+
 ### :keyboard: Activity: Enable Copilot inside a Codespace
 
 **We recommend opening another browser tab to work through the following activities so you can keep these instructions open for reference.**
